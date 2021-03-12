@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         viewPager.adapter = ViewPagerAdapter(getIdoList())
-
+//오늘 과제하느라 의미있는 커밋 못했어요 죄송합니다
     }
 }
